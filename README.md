@@ -9,7 +9,7 @@ Ce projet est une application Streamlit permettant de générer facilement des Q
 - Choix de la couleur du QR Code
 - Intégration optionnelle d'un logo au centre du QR Code
 - Téléchargement direct du QR Code généré
-- Interface intuitive avec [Streamlit](https://streamlit.io/)
+- Interface intuitive avec [Streamlit]([https://streamlit.io/](https://generateur-de-qr-code-personnalise-wj9dogjuqtxcmkal4c8i8i.streamlit.app/))
 
 ## 🖥️ Démo
 
